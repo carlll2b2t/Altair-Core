@@ -1,12 +1,19 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/carlll2b2t/Altair-Core/master/src/main/resources/assets/altair/githubheader.png">
-</p>
+# ![Altair](src/main/resources/assets/altair/githubheader.png)
 
-<h4>An open-source 1.18.2 Minecraft Utility Mod designed around simplicity, readability, user customization and performance! </h4>
+### An open-source 1.18.2 Minecraft Utility Mod designed around simplicity, readability, user customization and performance!
 
 This project is in its early stages, I will provide a detailed documentation of it's features later on in it's development. The ultimate goal of this project is to provide a simple "wrapper" client that anyone can read, understand the basics of Minecraft client operation, and develop their own forks or add in their own specific modules.
 
-<h4>Planned Features:</h4>
+Altair's simple file structure and many other areas is inspired by BaseClient. A Minecraft 1.8.8 utility mod.
+
+[![BaseClient](https://img.shields.io/badge/BaseClient-Source%20Code-critical)](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)
+
+The Event Manager uses the Pomelo Event Bus and Seppuku Event Manager as I did not have enough in-depth knowledge of Minecraft's filesystem to create this myself. Either way, this does the job very well so there is no point in rewriting literally 100 different listeners. 
+
+[![Seppuku](https://img.shields.io/badge/Seppuku-Source%20Code-critical)](https://github.com/seppukudevelopment/seppuku)
+
+
+####Planned Features:
 
 * General modules found in other clients
 * A not horrible looking ClickGUI, inspired by IrisShaders
