@@ -20,4 +20,3 @@ The Event System of Altair uses the Pomelo EventBus and ports the Seppuku Event 
 * Good performance
 * No bloat (useless alt managers, confusing implimentations/imports)
 * Easily readable source code and project design.
-* Debug Module Overriding
