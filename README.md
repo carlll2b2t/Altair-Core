@@ -16,9 +16,7 @@ The Event System of Altair uses the Pomelo EventBus and ports the Seppuku Event 
 ### Planned Features:
 
 * General modules found in other clients
-* A not horrible looking ClickGUI, inspired by IrisShaders
-* Ability to hide modules from clickgui.
-* Customizable UI
+* A clean and customizable ClickGUI, inspired by IrisShaders' settings.
 * Good performance
 * No bloat (useless alt managers, confusing implimentations/imports)
 * Easily readable source code and project design.
