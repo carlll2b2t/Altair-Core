@@ -2,6 +2,8 @@
 
 ### An open-source 1.18.2 Minecraft Utility Mod designed around simplicity, readability, user customization and performance!
 
+##### WARNING: THIS PROJECT DOES NOT RUN PROPERLY RIGHT NOW. THE SOURCE IS PUBLIC PURELY FOR SHARING/ASSISTANCE PURPOSES.
+
 This project is in its early stages, I will provide a detailed documentation of it's features later on in it's development. The ultimate goal of this project is to provide a simple "wrapper" client that anyone can read, understand the basics of Minecraft client operation, and develop their own forks or add in their own specific modules.
 
 Altair's simple file structure and many other areas is inspired by BaseClient, a Minecraft 1.8.8 utility mod. You can find it's source code by clicking the button below.
