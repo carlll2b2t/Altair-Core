@@ -13,7 +13,7 @@ The Event System of Altair uses the Pomelo EventBus and ports the Seppuku Event 
 [![Seppuku](https://img.shields.io/badge/Seppuku-Source%20Code-critical)](https://github.com/seppukudevelopment/seppuku)
 
 
-####Planned Features:
+### Planned Features:
 
 * General modules found in other clients
 * A not horrible looking ClickGUI, inspired by IrisShaders
